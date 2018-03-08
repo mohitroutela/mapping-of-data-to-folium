@@ -1,0 +1,745 @@
+,Location,Rank,University,Latitude,Longitude
+0,Hyderabad,144,Acharya N.G. Ranga Agricultural University,16.3611173,80.434837
+1,Guntur,148,Acharya Nagarjuna University,16.3763357,80.5277117
+2,Rajahmundry,377,Adikavi Nannaya University,17.0655469,81.8725957
+3,Ahmedabad,253,Ahmedabad University,23.0390246,72.5559727
+4,Karaikudi,125,Alagappa University,10.0786931,78.7946626
+5,Kolkata,355,Aliah University,22.5896952,88.48668
+6,Aligarh ...,44,Aligarh Muslim University,27.9135016,78.0781901
+7,Bhopal,228,All India Institute of Medical Sciences Bhopal,23.2105724,77.4575514
+8,Bhubaneswar,139,All India Institute of Medical Sciences Bhubaneswar,20.231476,85.7757569
+9,New Delhi,34,All India Institute of Medical Sciences Delhi,28.5629198,77.2092329
+10,Jodhpur,154,All India Institute of Medical Sciences Jodhpur,26.2402896,73.0050841
+11,Patna,247,All India Institute of Medical Sciences Patna,25.562921,85.0418548
+12,Raipur,190,All India Institute of Medical Sciences Raipur,21.2567797,81.5791788
+13,Rishikesh,204,All India Institute of Medical Sciences Rishikesh,30.0786773,78.285906
+14,Bangalore,215,Alliance University,12.730493,77.706756
+15,Noida ...,12,Amity University,28.544197,77.333377
+16,Coimbatore ...,16,Amrita Vishwa Vidyapeetham,10.901849,76.901651
+17,Anand,208,Anand Agricultural University,22.5358802,72.9748657
+18,Visakhapatnam,89,Andhra University,17.728816,83.320085
+19,Chennai,8,Anna University,13.0110816,80.2363137
+20,Chidambaram,67,Annamalai University,11.3917829,79.7132032
+21,Shimla,476,AP Goyal Shimla University,31.062824,77.16475
+22,Gurgaon,430,Apeejay Stya University,28.214402,77.173098
+23,Kathgarh,635,Arni University,32.1073359,75.6598384
+24,Namsai,566,Arunachal University of Studies,27.6472891,95.870252
+25,Patna,390,Aryabhatta Knowledge University,25.5923023,85.1349288
+26,Sonipat,305,Ashoka University,28.9455317,77.10237
+27,Jorhat,202,Assam Agricultural University,26.7247986,94.1956079
+28,Guwahati,329,Assam Don Bosco University,26.1301133,91.8978789
+29,Guwahati,538,Assam Down Town University,26.2016412,91.8614487
+30,Jorhat,614,Assam Kaziranga University,26.7237624,94.0754292
+31,Sivasagar,708,Assam Rajiv Gandhi University of Cooperative Management,26.9788721,94.6357145
+32,Guwahati,713,Assam Science and Technology University,26.1411567,91.667016
+33,Jorhat,733,Assam Women's University,26.7184477,94.1841411
+34,Bhopal,712,Atal Bihari Vajpayee Hindi Vishwavidyalaya,23.1936676,77.4119211
+35,Surat,562,AURO University,21.1775891,72.7357149
+36,Coimbatore,481,Avinashilingam University,11.0198317,76.9516006
+37,Rewa,455,Awadhesh Pratap Singh University,24.5676929,81.3326492
+38,Raipur,593,Ayush and Health Sciences University of Chhattisgarh,21.2460598,81.6048279
+39,Bangalore,295,Azim Premji University,12.8625774,77.6649177
+40,Chennai,296,B.S. Abdur Rahman University,12.8769332,80.0828735
+41,Faridkot,121,Baba Farid University of Health Sciences,30.683534,74.7348937
+42,Rajouri,487,Baba Ghulam Shah Badhshah University,33.3969327,74.3471423
+43,Rohtak,699,Baba Mast Nath University,28.8746918,76.6368803
+44,Muzaffarpur,362,Babasaheb Bhimrao Ambedkar Bihar University,26.1100446,85.3769703
+45,Lucknow,201,Babasaheb Bhimrao Ambedkar University,26.7678759,80.9262962
+46,Lucknow,510,Babu Banarasi Das University,26.8888142,81.0590309
+47,Baddi,605,Baddi University of Emerging Sciences and Technologies,30.9509643,76.7797254
+48,Waknaghat ...,676,BAHRA University,31.0047473,77.0908589
+49,Varanasi,22,Banaras Hindu University,25.2677203,82.9912582
+50,Banasthali ...,191,Banasthali Vidyapith,26.4014222,75.8721614
+51,Banda,687,Banda University of Agriculture and Technology,25.5258193,80.342393
+52,Bangalore,137,Bangalore University,12.9503878,77.5022224
+53,Bankura,643,Bankura University,23.2769403,87.0853934
+54,Bhopal,403,Barkatullah University,23.2024513,77.456214
+55,Bastar,618,Bastar Vishwavidyalaya,19.0986654,81.9872332
+56,Berhampur,347,Berhampur University,19.2979079,84.8782246
+57,Khanpur Kalan,442,Bhagat Phool Singh Mahila Vishwavidyalaya,29.1563606,76.8049546
+58,Ajmer,515,Bhagwant University,26.5375004,74.6607913
+59,Junagadh,574,Bhakta Kavi Narsinh Mehta University,21.4382972,70.5036811
+60,New Delhi,192,Bharat Ratna Dr. B.R. Ambedkar University,28.6631319,77.2336672
+61,Chennai,389,Bharath Institute of Higher Education and Research,12.908172,80.1410879
+62,Coimbatore,129,Bharathiar University,11.0398268,76.8789576
+63,Tiruchirappalli,108,Bharathidasan University,10.6779085,78.7445488
+64,Pune ...,130,Bharati Vidyapeeth University,18.4588524,73.8558396
+65,Lucknow,641,Bhatkhande Music Institute,26.853472,80.9330207
+66,Madhepura,688,Bhupendra Narayan Mandal University,25.9359278,86.7952802
+67,Nadia,276,Bidhan Chandra Krishi Vishwavidyalaya,22.9452453,88.5335715
+68,Bhagalpur,523,Bihar Agricultural University,25.2376196,87.0507325
+69,Rourkela ...,213,Biju Patnaik University of Technology,22.2472647,84.8191728
+70,Bilaspur,386,Bilaspur Vishwavidyalaya,22.0764909,82.1647364
+71,Ranchi ...,66,Birla Institute of Technology,23.4122599,85.4399411
+72,Pilani ...,23,Birla Institute of Technology and Science,28.3639976,75.5869681
+73,Ranchi,349,Birsa Agricultural University,23.442301,85.315631
+74,Bijapur,540,BLDE University,16.845362,75.7128603
+75,Gurgaon,372,BML Munjal University,28.2472264,76.8145901
+76,Kokrajhar,551,Bodoland University,26.4701309,90.2942937
+77,Jhansi,164,Bundelkhand University,25.4530312,78.609827
+78,Wadhwan,608,C.U. Shah University,22.748421,71.7021042
+79,Ahmedabad,703,Calorx Teachers University,23.1348979,72.5092039
+80,Ahmedabad,723,"Calorx Teachers University, Ahmedabad",23.1348979,72.5092039
+81,Hamirpur,710,Career Point University,25.013672,75.914911
+82,Imphal,632,Central Agricultural University,24.8145194,93.8903515
+83,Mumbai,391,Central Institute of Fisheries Education,19.1398223,72.8160876
+84,Gandhinagar,307,Central University of Gujarat,23.2379056,72.6692587
+85,Mahendragarh,272,Central University of Haryana,28.3601742,76.1466479
+86,Kangra,271,Central University of Himachal Pradesh,32.2244897,76.1566006
+87,Jammu,443,Central University of Jammu,32.6706592,74.9131308
+88,Ranchi,258,Central University of Jharkhand,23.4411077,85.1458997
+89,Gulbarga,303,Central University of Karnataka,17.4321204,76.6738951
+90,Srinagar,185,Central University of Kashmir,34.2327694,74.7257155
+91,Kasaragod,334,Central University of Kerala,12.39184,75.098053
+92,Koraput,350,Central University of Orissa,18.8309159,82.8039551
+93,Bathinda,398,Central University of Punjab,30.1714016,74.9659012
+94,Ajmer,231,Central University of Rajasthan,26.6236356,75.0272417
+95,Patna,306,Central University of South Bihar,25.5960388,85.0868261
+96,Thiruvarur,237,Central University of Tamil Nadu,10.8128998,79.6114639
+97,Varanasi,592,Central University of Tibetan Studies,25.3660345,83.0216646
+98,Bhubaneswar,297,Centurion University of Technology and Management,18.8068529,84.1401833
+99,Ahmedabad,87,CEPT University,23.0376776,72.5497422
+100,Patna,469,Chanakya National Law University,25.592025,85.1356933
+101,Mohali ...,94,Chandigarh University,30.770084,76.575865
+102,Kanpur,483,Chandra Shekhar Azad University of Agriculture and Technology,26.4912007,80.3073227
+103,Anand,435,Charotar University of Science and Technology,22.599589,72.8205
+104,Bhiwani,640,Chaudhary Bansi Lal University,28.8133032,76.1273786
+105,Hisar,79,Chaudhary Charan Singh Haryana Agricultural University,29.15027,75.7055885
+106,Meerut,99,Chaudhary Charan Singh University,28.9691519,77.7405107
+107,Sirsa,466,Chaudhary Devi Lal University,29.5470443,75.0424979
+108,Jind,485,Chaudhary Ranbir Singh University,29.2941788,76.3398816
+109,Chennai,123,Chennai Mathematical Institute,12.8286984,80.2205714
+110,Kalyanpur,38,Chhatrapati Shahu Ji Maharaj University,26.4968544,80.266605
+111,Raipur,627,Chhattisgarh Kamdhenu Vishwavidyalaya,21.2371196,81.6866973
+112,Bhilai,188,Chhattisgarh Swami Vivekananda Technical University,21.1380497,81.3636216
+113,Gandhinagar,611,Children's University,32.6690953,-97.1658105
+114,Punjab,107,Chitkara University,30.5176089,76.6595696
+115,Bangalore,40,Christ University,12.9359595,77.6058367
+116,Bangalore,631,CMR University,13.1175674,77.6554441
+117,Kochi,33,Cochin University of Science and Technology,10.0448151,76.3275411
+118,Cooch Behar,664,Cooch Behar Panchanan Barma University,26.3215253,89.4696009
+119,Guwahati,508,Cotton University,26.187224,91.7467906
+120,Palampur,339,CSK Himachal Pradesh Krishi Vishvavidyalaya,32.1002575,76.5464524
+121,Chennai,675,Dakshina Bharat Hindi Prachar Sabha,13.0352406,80.2394672
+122,Visakhapatnam ...,554,Damodaram Sanjivayya National Law University,17.7914197,83.1096422
+123,Nagpur,517,Datta Meghe Institute of Medical Sciences,20.7149298,78.576277
+124,Davangere,536,Davangere University,14.3928715,75.9629639
+125,Agra,156,Dayalbagh Educational Institute,27.2279199,78.0137765
+126,Pune,550,Deccan College Post-Graduate and Research Institute,18.5494492,73.8732786
+127,Gorakhpur,255,Deen Dayal Upadhyay Gorakhpur University,26.748484,83.3817193
+128,Murthal,248,Deenbandhu Chhotu Ram University of Science and Technology,29.0272123,77.0621078
+129,New Delhi,104,Delhi Technological University,28.7499867,77.1183137
+130,Mandi Gobindgarh,581,Desh Bhagat University,30.6261474,76.249853
+131,Shantikunj,416,Dev Sanskriti Vishwavidyalaya,29.9981428,78.1927787
+132,Indore,73,Devi Ahilya Vishwavidyalaya,22.7163595,75.8719134
+133,Nadiad,298,Dharmsinh Desai University,22.6797745,72.8806286
+134,Gandhinagar,43,Dhirubhai Ambani Institute of Information and Communication Technology,23.1885469,72.6290294
+135,Sarisha,695,Diamond Harbour Women's University,22.2575777,88.195743
+136,Dibrugarh,142,Dibrugarh University,27.4496451,94.8968802
+137,Dehradun,378,DIT University,30.3984348,78.0747887
+138,Dehradun,399,Doon University,30.2684204,78.0462343
+139,Newai,524,Dr K.N. Modi University,26.3890547,75.916819
+140,Lucknow,25,Dr. A.P.J. Abdul Kalam Technical University,26.9443029,80.9396275
+141,Jalandhar,126,Dr. B R Ambedkar National Institute of Technology Jalandhar,31.3961507,75.5353566
+142,Etcherla,679,Dr. B.R. Ambedkar University,17.43275,78.3945751
+143,Aurangabad,176,Dr. Babasaheb Ambedkar Marathwada University,19.9027409,75.3104728
+144,Lonere,287,Dr. Babasaheb Ambedkar Technological University,18.1699109,73.3386809
+145,Dapoli,427,Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth,17.7496012,73.1784705
+146,Agra,282,Dr. Bhimrao Ambedkar University,27.1995395,78.0163746
+147,Bilaspur,438,Dr. C.V. Raman University,22.2792781,82.0113006
+148,Pune,323,Dr. D.Y. Patil Vidyapeeth,18.6241943,73.8211085
+149,Sagar,242,Dr. Hari Singh Gour University,23.8265828,78.7751302
+150,Chennai,370,Dr. M.G.R. Educational and Research Institute,13.067815,80.17689
+151,Vijayawada,261,Dr. N.T.R. University of Health Sciences,16.5163627,80.6692822
+152,Akola,376,Dr. Panjabrao Deshmukh Krishi Vidyapeeth,20.7006054,77.037085
+153,Faizabad,184,Dr. Ram Manohar Lohia Avadh University,26.7519528,82.1622419
+154,Lucknow,415,Dr. Ram Manohar Lohiya National Law University,26.7831985,80.9069621
+155,Jodhpur,407,Dr. Sarvepalli Radhakrishnan Rajasthan Ayurved University,26.452096,73.1097754
+156,Lucknow,373,Dr. Shakuntala Misra Rehabilitation University,26.8329267,80.8372414
+157,Nauni,356,Dr. Y.S. Parmar University of Horticulture and Forestry,30.8570581,77.1674715
+158,Tadepalligudem,320,Dr.Y.S.R. Horticultural University,16.8828658,81.4516661
+159,Kuppam,463,Dravidian University,12.7965477,78.3029938
+160,Jorethang,600,EIILM University,27.5331217,88.5122297
+161,Baru Sahib,607,Eternal University,30.7559962,77.2989545
+162,Balasore ...,568,Fakir Mohan University,21.5442278,86.8160677
+163,Ahmedabad,680,G.L.S. University,23.026366,72.559546
+164,Noida,235,Galgotias University,28.3641389,77.5427055
+165,Visakhapatnam,75,Gandhi Institute of Technology and Management,17.7820159,83.3770973
+166,Gandhigram,205,Gandhigram Rural University,10.2793232,77.9345987
+167,Mehsana,321,Ganpat University,23.5292875,72.4577363
+168,Guwahati,80,Gauhati University,26.1535593,91.6630313
+169,Greater Noida,293,Gautam Buddha University,28.4216627,77.5254432
+170,Udaipur,519,Geetanjali University,24.5545265,73.7329019
+171,Chaumuhan,309,GLA University,27.6055924,77.5930345
+172,Saharanpur,560,Glocal University,30.290189,77.641531
+173,Phagwara,528,GNA University,31.2791182,75.7791424
+174,Taleigao,179,Goa University,15.458414,73.834555
+175,Pune,479,Gokhale Institute of Politics and Economics,18.5201304,73.8326232
+176,Gadchiroli,726,Gondwana University,20.1726748,79.9725995
+177,Pantnagar,165,Govind Ballabh Pant University of Agriculture and Technology,29.0228626,79.4879412
+178,Clement Town,573,Graphic Era Hill University,30.2733405,77.9998265
+179,Dehradun,357,Graphic Era University,30.2734235,77.9998221
+180,Vadodara,644,GSFC University,22.382825,73.146922
+181,Jamnagar,387,Gujarat Ayurved University,22.4751345,70.0634328
+182,Gandhinagar,473,Gujarat Forensic Sciences University,23.210639,72.661919
+183,Gandhinagar,199,Gujarat National Law University,23.153974,72.660999
+184,Ahmedabad,27,Gujarat Technological University,23.105851,72.5937556
+185,Ahmedabad,88,Gujarat University,23.03611,72.546635
+186,Ahmedabad,744,Gujarat University of Transplantation Sciences,23.0493175,72.6073391
+187,Ahmedabad ...,331,Gujarat Vidyapith,23.0396729,72.5694234
+188,Gulbarga,175,Gulbarga University,17.3103866,76.8729945
+189,Ludhiana,374,Guru Angad Dev Veterinary and Animal Sciences University,30.8918739,75.8003238
+190,Bilaspur,181,Guru Ghasidas Vishwavidyalaya,22.1305889,82.1420069
+191,New Delhi,32,Guru Gobind Singh Indraprastha University,28.5945644,77.0184304
+192,Hisar,250,Guru Jambheshwar University of Science and Technology,29.1686883,75.7357979
+193,Talwandi Sabo,649,Guru Kashi University,29.960716,75.125434
+194,Amritsar,141,Guru Nanak Dev University,31.6339605,74.8259166
+195,Hoshiarpur,647,Guru Ravidas Ayurved University,31.5041413,76.0219598
+196,Haridwar,353,Gurukul Kangri Vishwavidyalaya,29.9187724,78.1265104
+197,Jaipur,731,Haridev Joshi University of Journalism and Mass Communication,26.8391207,75.86905
+198,Patan,157,Hemchandracharya North Gujarat University,23.8645337,72.1308983
+199,Srinagar,240,Hemwati Nandan Bahuguna Garhwal University,30.2219736,78.7816652
+200,Dehradun,542,Hemwati Nandan Bahuguna Medical University,30.3140193,78.0431525
+201,Raipur,254,Hidayatullah National Law University,21.1067099,81.7590222
+202,Hamirpur,392,Himachal Pradesh Technical University,31.689595,76.518019
+203,Shimla,149,Himachal Pradesh University,31.1110365,77.1393647
+204,Dehradun,586,Himgiri ZEE University,30.3406946,77.8753565
+205,Chennai,262,Hindustan Institute of Technology and Science,12.8008664,80.2243601
+206,Mumbai,315,Homi Bhabha National Institute,19.0338061,72.9260079
+207,Dehradun,534,"ICFAI University, Dehradun",30.363092,77.876068
+208,Baddi,718,"ICFAI University, Himachal Pradesh",30.8767764,76.8746316
+209,Ranchi,652,"ICFAI University, Jharkhand",23.3502999,85.299883
+210,Tura,711,"ICFAI University, Meghalaya",25.5674539,91.8999602
+211,Aizawl,694,"ICFAI University, Mizoram",23.800644,92.7279564
+212,Dimapur,707,"ICFAI University, Nagaland",25.8375773,93.762702
+213,Durg,724,"ICFAI University, Raipur",21.2478095,81.4990946
+214,Gangtok,589,"ICFAI University, Sikkim",28.547422,77.256805
+215,Agartala,513,"ICFAI University, Tripura",12.9257868,77.5500434
+216,Kalujhanda,655,IEC University,30.8751005,76.8698627
+217,Hyderabad,557,IFHE Hyderabad,17.4227531,78.2194444
+218,Moradabad,571,IFTM University,28.8200189,78.6429132
+219,Dehradun,616,IMS Unison University,30.4000596,78.078084
+220,New Delhi,203,Indian Agricultural Research Institute,28.6373709,77.1628793
+221,Howrah ...,118,"Indian Institute of Engineering Science and Technology, Shibpur",22.5551808,88.3071379
+222,New Delhi,226,Indian Institute of Foreign Trade,28.5371702,77.1832503
+223,Allahabad,56,Indian Institute of Information Technology Allahabad,25.4304161,81.770679
+224,Gwalior,200,Indian Institute of Information Technology and Management Gwalior,26.2493849,78.1733495
+225,Chennai,337,"Indian Institute of Information Technology, Design and Manufacturing",12.8394963,80.1374898
+226,Guwahati,578,"Indian Institute of Information Technology, Guwahati",26.1841313,91.7550911
+227,Kalyani,656,"Indian Institute of Information Technology, Kalyani",22.9610512,88.4334224
+228,Kottayam,736,"Indian Institute of Information Technology, Kottayam",9.5884439,76.523083
+229,Allahabad,613,"Indian Institute of Information Technology, Lucknow",26.9290568,80.9280918
+230,Imphal,715,"Indian Institute of Information Technology, Manipur",24.8430251,93.9391619
+231,Sri City,561,"Indian Institute of Information Technology, Sri City",13.5548289,80.0272589
+232,Una,721,"Indian Institute of Information Technology, Una",28.544502,77.272575
+233,Gandhinagar,556,"Indian Institute of Information Technology, Vadodara",23.2591039,72.6504058
+234,Bangalore,35,Indian Institute of Science,13.0218597,77.5671423
+235,Bhopal,180,"Indian Institute of Science Education and Research, Bhopal",23.2883503,77.2757147
+236,Mohanpur,147,"Indian Institute of Science Education and Research, Kolkata",22.9638419,88.5245023
+237,Mohali,194,"Indian Institute of Science Education and Research, Mohali",30.6649526,76.7300421
+238,Pune,109,"Indian Institute of Science Education and Research, Pune",18.5456658,73.8065861
+239,Thiruvananthapuram,239,"Indian Institute of Science Education and Research, Thiruvananthapuram",8.546117,76.906188
+240,Thiruvananthapuram,101,Indian Institute of Space Science and Technology,8.6253681,77.0340577
+241,Gandhinagar,599,Indian Institute of Teacher Education,23.2370984,72.6369684
+242,Bhubaneswar,120,Indian Institute of Technology Bhubaneswar,20.1493599,85.6682795
+243,Mumbai,2,Indian Institute of Technology Bombay,19.1334302,72.9132679
+244,New Delhi,5,Indian Institute of Technology Delhi,28.5449756,77.1926283
+245,Chandkheda,59,Indian Institute of Technology Gandhinagar,23.2130988,72.6870318
+246,Guwahati,31,Indian Institute of Technology Guwahati,26.1902523,91.6920239
+247,Eddumailaram,58,Indian Institute of Technology Hyderabad,17.5947033,78.1231054
+248,Indore,114,Indian Institute of Technology Indore,22.5203597,75.9207231
+249,Jodhpur,146,Indian Institute of Technology Jodhpur,26.4723687,73.1145357
+250,Kanpur,4,Indian Institute of Technology Kanpur,26.5123388,80.2329
+251,Kharagpur,6,Indian Institute of Technology Kharagpur,22.3149274,87.3105311
+252,Chennai,3,Indian Institute of Technology Madras,12.9952179,80.2380096
+253,Mandi,103,Indian Institute of Technology Mandi,31.7753998,76.9860747
+254,Patna,155,Indian Institute of Technology Patna,25.5357523,84.8510653
+255,Roorkee,24,Indian Institute of Technology Roorkee,29.8648599,77.8965787
+256,Rupnagar,145,Indian Institute of Technology Ropar,30.9756394,76.538868
+257,Varanasi,65,"Indian Institute of Technology, BHU",25.2623305,82.989403
+258,Chennai,218,Indian Maritime University,9.9295584,76.2873241
+259,Dhanbad,76,Indian School of Mines,23.8142003,86.4411217
+260,Kolkata ...,29,Indian Statistical Institute,22.6483169,88.3770388
+261,Bareilly ...,318,Indian Veterinary Research Institute,28.3913821,79.4273698
+262,New Delhi,563,Indira Gandhi Delhi Technical University for Women,28.665236,77.2323689
+263,Mumbai,113,Indira Gandhi Institute of Development Research,19.1661738,72.8776933
+264,Patna,454,"Indira Gandhi Institute of Medical Sciences, Sheikhpura",25.6113086,85.0892947
+265,Raipur,343,Indira Gandhi Krishi Vishwavidyalaya,21.2382447,81.704842
+266,Amarkantak,364,Indira Gandhi National Tribal University,22.8064043,81.7494883
+267,Ziro,738,Indira Gandhi Technological and Medical Sciences University,27.552638,93.827177
+268,Rewari,677,"Indira Gandhi University, Meerpur",28.2415644,76.6959858
+269,Khairagarh,615,Indira Kala Sangit Vishwavidyalaya,21.4209301,80.9782897
+270,New Delhi,134,Indraprastha Institute of Information Technology,28.5456282,77.2731505
+271,Bathu,704,Indus International University,31.422338,76.2319793
+272,Ahmedabad,497,Indus University,24.897793,67.0798734
+273,Gandhinagar,720,Institute of Advanced Research,23.1485584,72.6697346
+274,Sardarshahr,437,Institute of Advanced Studies in Education,28.4438229,74.5166092
+275,Mumbai,259,Institute of Chemical Technology,19.0239192,72.8575207
+276,Ahmedabad,520,"Institute of Infrastructure, Technology, Research and Management",23.004295,72.6215736
+277,Lucknow,310,Integral University,26.9584536,80.9992308
+278,Mumbai,183,International Institute for Population Sciences,19.04907,72.9148272
+279,Bangalore,124,International Institute of Information Technology Bangalore,12.8447512,77.6632317
+280,Hyderabad,19,"International Institute of Information Technology, Hyderabad",17.445388,78.3482302
+281,Bareilly,341,Invertis University,28.291916,79.493058
+282,Pulwama,620,Islamic University of Science and Technology,33.9264373,75.0191071
+283,Gwalior,396,ITM University Gwalior,26.1382122,78.2077886
+284,Raipur,684,ITM University Raipur,21.111625,81.754432
+285,Kolkata,55,Jadavpur University,22.4998759,88.3714991
+286,Jaipur,548,Jagadguru Ramanandacharya Rajasthan Sanskrit University,26.8096003,75.7066569
+287,Chitrakoot,651,Jagadguru Rambhadracharya Handicapped University,25.167231,80.834061
+288,Mysore ...,395,Jagadguru Sri Shivarathreeswara University,12.3424835,76.6523711
+289,Jaipur,428,Jagan Nath University,26.5492172,75.9536741
+290,Jhajjar,628,"Jagan Nath University, NCR",28.632116,76.75804
+291,Bhopal,604,Jagran Lakecity University,23.2033678,77.2945083
+292,Jodhpur,290,Jai Narain Vyas University,26.2440985,73.020587
+293,Chapra,439,Jai Prakash Vishwavidyalaya,25.7843192,84.7340459
+294,Bangalore,217,Jain University,12.918174,77.59179
+295,Ladnun,458,Jain Vishva Bharati Institute,27.6493997,74.3896262
+296,Jaipur,170,Jaipur National University,26.8486076,75.8599374
+297,New Delhi,111,Jamia Hamdard,28.5156233,77.2504518
+298,New Delhi,52,Jamia Millia Islamia,28.5610313,77.2844543
+299,Udaipur,333,Janardan Rai Nagar Rajasthan Vidhyapeeth University,24.5926259,73.7554039
+300,Puducherry,50,Jawaharlal Institute of Postgraduate Medical Education and Research,11.9494936,79.7970164
+301,Hyderabad,405,Jawaharlal Nehru Architecture and Fine Arts University,17.4031532,78.4559527
+302,Bangalore,83,Jawaharlal Nehru Centre for Advanced Scientific Research,13.0685438,77.610875
+303,Jabalpur,429,Jawaharlal Nehru Krishi Vishwavidyalaya,23.2072203,79.9539707
+304,Hyderabad ...,63,Jawaharlal Nehru Technological University,17.4946257,78.3921576
+305,Anantapur,249,"Jawaharlal Nehru Technological University, Anantapur",14.649663,77.6071356
+306,Kakinada,128,"Jawaharlal Nehru Technological University, Kakinada",16.9785466,82.2406733
+307,New Delhi,11,Jawaharlal Nehru University,28.540214,77.1661949
+308,Jaipur,464,Jayoti Vidyapeeth Women's University,26.8252988,75.4605845
+309,Noida,195,Jaypee Institute of Information Technology,28.6304529,77.372093
+310,Raghogarh,493,Jaypee University of Engineering and Technology,24.4348857,77.1612002
+311,Waknaghat,311,Jaypee University of Information Technology,31.016551,77.070159
+312,Anupshahr,702,"Jaypee University, Anoopshahr",28.3392929,78.262267
+313,Jaipur,411,JECRC University,26.775534,75.877486
+314,Ranchi,646,Jharkhand Rai University,23.4052031,85.2512281
+315,Gwalior,136,Jiwaji University,26.2008491,78.1949157
+316,Jaipur,433,JK Lakshmipat University,26.8361138,75.650229
+317,Jodhpur,518,Jodhpur National University,26.178362,72.9136242
+318,Shikohabad,727,JS University,27.1241725,78.6351961
+319,Junagadh,363,Junagadh Agricultural University,21.5061694,70.4493738
+320,Vaddeswaram,110,K L University,16.4419187,80.6225262
+321,Gurgaon,579,K.R. Mangalam University,28.271238,77.06789
+322,Gandhinagar,598,Kadi Sarva VishwaVidyalaya,23.2388113,72.6398052
+323,Warangal ...,161,Kakatiya University,18.0280771,79.5519144
+324,Krishnankoil,336,Kalasalingam University,9.5747052,77.6798137
+325,Raipur,584,Kalinga University,21.1675341,81.8208829
+326,Gandhinagar,683,Kamdhenu University,23.2139477,72.6526178
+327,Darbhanga,650,Kameshwar Singh Darbhanga Sanskrit University,26.1638211,85.8973471
+328,Vidyaranya,565,Kannada University,15.2872791,76.4911042
+329,Kannur,174,Kannur University,11.8675303,75.3745088
+330,Dharwad,283,Karnatak University,15.4404075,74.9852464
+331,Shiggaon,737,Karnataka Janapada Vishwavidyalaya,15.0340247,75.17553
+332,Bangalore,621,Karnataka Sanskrit University,12.9589554,77.57228
+333,Hubli,498,Karnataka State Law University,15.3997804,75.0709965
+334,Bijapur ...,539,Karnataka State Women's University,16.8306258,75.6405835
+335,Bidar,729,"Karnataka Veterinary, Animal and Fisheries Sciences University",17.8680356,77.4776166
+336,Coimbatore,670,Karpagam Academy of Higher Education,10.917817,76.987083
+337,Coimbatore,92,Karunya University,10.936164,76.744061
+338,Nagpur,512,Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya,21.3928618,79.3268397
+339,Asansol,603,Kazi Nazrul University,23.6947471,86.9949171
+340,Thrissur ...,91,Kerala Agricultural University,10.5483936,76.2856863
+341,Cheruthuruthi,506,Kerala Kalamandalam,10.7366151,76.2790309
+342,Kochi,482,Kerala University of Fisheries and Ocean Studies,9.910665,76.317304
+343,Thrissur,412,Kerala University of Health Sciences,10.6108739,76.1951338
+344,Pookode,379,Kerala Veterinary and Animal Sciences University,11.5392866,76.020053
+345,Lucknow,705,"Khwaja Moinuddin Chishti Urdu, Arabi-Farsi University",26.928709,80.8963305
+346,Bhubaneswar,72,KIIT University,20.355255,85.8153017
+347,Lucknow,173,King George's Medical University,26.867316,80.9148575
+348,Belgaum ...,419,KLE University,15.8840223,74.5172335
+349,Chaibasa,505,Kolhan University,22.5251653,85.8136226
+350,Bhuj,423,Krantiguru Shyamji Krishna Verma Kachchh University,23.214095,69.654603
+351,Karad,545,Krishna Institute of Medical Sciences,17.385044,78.486671
+352,Machilipatnam,351,Krishna University,16.138823,81.100397
+353,Mysore,730,KSGH Music and Performing Arts University,12.2958291,76.6428384
+354,Nalbari,725,Kumar Bhaskar Varma Sanskrit And Ancient Studies University,26.48544,91.4579459
+355,Nainital,302,Kumaun University,29.3909438,79.4459045
+356,Kurukshetra ...,46,Kurukshetra University,29.9655011,76.7105633
+357,Raipur,662,Kushabhau Thakre Patrakarita Avam Jansanchar University,21.1721866,81.6244376
+358,Shimoga,324,Kuvempu University,13.7358823,75.6324272
+359,Gwalior,489,Lakshmibai National Institute of Physical Education,26.220921,78.1904179
+360,Ahmedabad,739,Lakulish Yoga University,23.1268584,72.5391482
+361,Hisar,494,Lala Lajpat Rai University of Veterinary and Animal Sciences,29.1467924,75.7099688
+362,Darbhanga,328,Lalit Narayan Mithila University,26.1609463,85.8958125
+363,Faridabad,558,Lingaya's University,28.409308,77.403165
+364,Phagwara,9,Lovely Professional University,31.253603,75.703669
+365,Bangalore,446,M.S. Ramaiah University of Applied Sciences,13.02909,77.569861
+366,Gorakhpur,266,Madan Mohan Malaviya University of Technology,26.7314104,83.4332066
+367,Pindwara,693,Madhav University,24.5592304,72.847495
+368,Madurai,177,Madurai Kamaraj University,9.9403922,78.0105374
+369,Bodh Gaya,308,Magadh University,24.6867467,84.9651339
+370,Nagaon,728,Mahapurusha Srimanta Sankaradeva Viswavidyalaya,26.3493036,92.6812434
+371,Baddi,698,Maharaja Agrasen University,30.876924,76.876558
+372,Chhatarpur,700,Maharaja Chhatrasal Bundelkhand University,24.9035358,79.5916785
+373,Bikaner,221,Maharaja Ganga Singh University,28.0329959,73.2599185
+374,Bhavnagar,278,Maharaja Krishnakumarsinhji Bhavnagar University,21.7619163,72.1295145
+375,Bathinda,633,Maharaja Ranjit Singh Punjab Technical University,30.1738205,74.9232538
+376,Bharatpur,638,Maharaja Surajmal Brij University,27.2104905,77.5167955
+377,Udaipur,397,Maharana Pratap University of Agriculture and Technology,24.5931246,73.7311454
+378,Nagpur,418,Maharashtra Animal and Fishery Sciences University,21.1580891,79.0468109
+379,Nashik,220,Maharashtra University of Health Sciences,20.0785105,73.8027101
+380,Rohtak,71,Maharishi Dayanand University,28.8768269,76.621108
+381,Katni ...,570,Maharishi Mahesh Yogi Vedic Vishwavidyalaya,23.442395,80.3881333
+382,Mullana ...,227,"Maharishi Markandeshwar University, Mullana",30.251223,77.047538
+383,Ambala ...,673,"Maharishi Markandeshwar University, Sadopur",30.4234595,76.7748739
+384,Solan,665,"Maharishi Markandeshwar University, Solan",30.8707627,77.0861778
+385,Bilaspur ...,661,Maharishi University of Management and Technology,22.1038705,82.1204417
+386,Ajmer,380,Maharshi Dayanand Saraswati University,26.5060336,74.6808517
+387,Ujjain,606,Maharshi Panini Sanskrit Vishwavidyalaya,23.1674149,75.800299
+388,Wardha,332,Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya,20.7643047,78.5884428
+389,Motihari,492,"Mahatma Gandhi Central University, Motihari",26.646312,84.9059253
+390,Chitrakoot,642,Mahatma Gandhi Chitrakoot Gramoday Vishwavidyalaya,25.1788154,80.8654534
+391,Varanasi ...,186,Mahatma Gandhi Kashi Vidyapeeth,25.3212319,82.9895586
+392,Kottayam,45,Mahatma Gandhi University,9.6579672,76.532764
+393,Jaipur,659,Mahatma Gandhi University of Medical Sciences and Technology,26.7714749,75.8584127
+394,Khanapara,367,"Mahatma Gandhi University, Meghalaya",26.0668006,91.8698759
+395,Nalgonda,507,"Mahatma Gandhi University, Nalgonda",17.1449454,79.2206901
+396,Jaipur,630,Mahatma Jyoti Rao Phoole University,26.8911864,75.7752559
+397,Bareilly,117,Mahatma Jyotiba Phule Rohilkhand University,28.3659945,79.4552067
+398,Rahuri,504,Mahatma Phule Krishi Vidyapeeth,19.349088,74.646091
+399,Bhopal ...,292,Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya,23.1942741,77.4319424
+400,Jaipur,97,"Malaviya National Institute of Technology, Jaipur",26.86126,75.8139892
+401,Solan,522,Manav Bharti University,30.8697163,77.0840746
+402,Aligarh,596,Mangalayatan University,27.642314,77.8953181
+403,Mangalore,153,Mangalore University,12.8170387,74.9231362
+404,Manipal ...,21,Manipal University,13.3536241,74.7847731
+405,Imphal,257,Manipur University,24.7522876,93.9280425
+406,Tirunelveli,209,Manonmaniam Sundaranar University,8.7614889,77.6493676
+407,Shillong,667,Martin Luther Christian University,25.5681461,91.8838994
+408,Rajkot,716,Marwadi University,22.367243,70.797557
+409,Aarang,583,MATS University,21.2470623,81.9981551
+410,Kolkata,106,Maulana Abul Kalam Azad University of Technology,22.596544,88.417305
+411,Bhopal,115,Maulana Azad National Institute of Technology,23.214585,77.4051341
+412,Hyderabad,210,Maulana Azad National Urdu University,17.4250859,78.3642943
+413,Jodhpur,742,"Maulana Azad University, Jodhpur",26.2740207,72.9870234
+414,Patna,612,Maulana Mazharul Haque Arabic and Persian University,25.5936134,85.1054255
+415,Chennai,658,Meenakshi Academy of Higher Education and Research,13.0143467,80.1069136
+416,Chittorgarh,495,Mewar University,25.0329877,74.6354721
+417,Navi Mumbai,529,MGM Institute of Health Sciences,19.0218216,73.0907
+418,Aizawl,230,Mizoram University,23.740373,92.6522456
+419,Lakshmangarh,404,Mody University,27.8019683,75.0360464
+420,Rampur,689,Mohammad Ali Jauhar University,28.8793375,79.0178867
+421,Udaipur,160,Mohanlal Sukhadia University,24.5941614,73.7314401
+422,Hapur,740,Monad University,28.7216325,77.6961996
+423,Kodaikanal,346,Mother Teresa Women's University,10.2692324,77.4811327
+424,Bhagwanpur,732,Motherhood University,29.9218372,77.8330156
+425,Allahabad,48,Motilal Nehru National Institute of Technology,25.4920102,81.8639163
+426,Palwal,533,MVN University,28.0162374,77.3328014
+427,Kohima,361,Nagaland University,25.7247899,94.095642
+428,Rajgir,304,Nalanda University,25.0184998,85.380065
+429,Hyderabad,280,NALSAR University of Law,17.6041626,78.5469197
+430,Jabalpur,625,Nanaji Deshmukh Veterinary Science University,23.1607279,79.9513704
+431,Faizabad,587,Narendra Dev University of Agriculture and Technology,26.5353735,81.8350336
+432,Mumbai,62,Narsee Monjee Institute of Management and Higher Studies,19.103347,72.8365851
+433,Karnal ...,421,National Dairy Research Institute,29.6999796,76.9866712
+434,Ahmedabad ...,68,National Institute of Design,23.0110378,72.5697291
+435,New Delhi ...,86,National Institute of Fashion Technology,28.5561759,77.2084359
+436,Sonipat,326,National Institute of Food Technology Entrepreneurship and Management,28.8784303,77.1332599
+437,Bangalore,252,National Institute of Mental Health and Neuro Sciences,12.9406819,77.5982643
+438,Ahmedabad,637,"National Institute of Pharmaceutical Education and Research, Ahmedabad",30.6833624,76.7320981
+439,Guwahati,706,"National Institute of Pharmaceutical Education and Research, Guwahati",26.1544247,91.7698965
+440,Hajipur,696,"National Institute of Pharmaceutical Education and Research, Hajipur",25.6933584,85.2434349
+441,Hyderabad,559,"National Institute of Pharmaceutical Education and Research, Hyderabad",17.4708913,78.4395823
+442,Kolkata,639,"National Institute of Pharmaceutical Education and Research, Kolkata",22.4974066,88.369979
+443,Mohali,400,"National Institute of Pharmaceutical Education and Research, Mohali",30.6833624,76.7320981
+444,Rae Bareli,648,"National Institute of Pharmaceutical Education and Research, Rae Bareli",26.231516,81.267739
+445,Agartala,256,"National Institute of Technology, Agartala",23.8437702,91.4248487
+446,Yupia,359,"National Institute of Technology, Arunachal Pradesh",27.1484987,93.7168886
+447,Calicut,54,"National Institute of Technology, Calicut",11.3199679,75.9327257
+448,New Delhi,340,"National Institute of Technology, Delhi",28.8429798,77.1045429
+449,Durgapur,105,"National Institute of Technology, Durgapur",23.5482373,87.2934466
+450,Farmagudi,330,"National Institute of Technology, Goa",15.4124152,73.9781219
+451,Hamirpur,168,"National Institute of Technology, Hamirpur",31.708371,76.527356
+452,Jamshedpur,178,"National Institute of Technology, Jamshedpur",22.7765695,86.1437391
+453,Mangalore,61,"National Institute of Technology, Karnataka",13.0108387,74.7943104
+454,Kurukshetra,150,"National Institute of Technology, Kurukshetra",29.9489654,76.8172843
+455,Imphal,453,"National Institute of Technology, Manipur",24.8320388,93.9128172
+456,Shillong,277,"National Institute of Technology, Meghalaya",25.5738788,91.8947077
+457,Aizawl,410,"National Institute of Technology, Mizoram",23.7483417,92.7210211
+458,Dimapur,450,"National Institute of Technology, Nagaland",25.7880243,93.7744568
+459,Patna,162,"National Institute of Technology, Patna",25.6211289,85.1720184
+460,Karaikal,402,"National Institute of Technology, Puducherry",10.9884374,79.8456824
+461,Raipur,152,"National Institute of Technology, Raipur",21.2497222,81.6050291
+462,Rourkela,26,"National Institute of Technology, Rourkela",22.2534697,84.9011321
+463,Ravangla,424,"National Institute of Technology, Sikkim",27.2973639,88.3569818
+464,Silchar,138,"National Institute of Technology, Silchar",24.7554952,92.7879635
+465,Srinagar,322,"National Institute of Technology, Srinagar",34.125218,74.8374486
+466,Tiruchirappalli,39,"National Institute of Technology, Tiruchirappalli",10.7589181,78.813219
+467,Srinagar,436,"National Institute of Technology, Uttarakhand",30.2184454,78.7669899
+468,Warangal,85,"National Institute of Technology, Warangal",17.9839293,79.5307478
+469,Bhopal,474,National Law Institute University,23.186921,77.363667
+470,Bangalore,122,National Law School of India University,12.9546005,77.5175454
+471,New Delhi,198,National Law University,28.599426,77.0231638
+472,Guwahati,496,"National Law University and Judicial Academy, Assam",26.1882709,91.6525655
+473,Jodhpur,236,"National Law University, Jodhpur",26.362827,73.056794
+474,Cuttack,451,"National Law University, Orissa",20.4852061,85.7916497
+475,New Delhi,116,National University of Educational Planning and Administration,28.5388395,77.1917919
+476,Ranchi,457,National University of Study and Research in Law,23.4526442,85.3173351
+477,Bargaon,575,Nava Nalanda Mahavihara,25.1282408,85.4455249
+478,Vadodara,549,Navrachana University,22.2927592,73.1221589
+479,Navsari ...,354,Navsari Agricultural University,20.9248565,72.9079128
+480,Allahabad,478,Nehru Gram Bharati Vishwavidyalaya,25.3753117,81.9997698
+481,Kaithal,691,NIILM University,29.8617481,76.4609277
+482,Medininagar,595,Nilamber-Pitamber University,24.036266,84.068583
+483,Jaipur,345,NIMS University,27.1927146,75.9539704
+484,Ahmedabad,93,Nirma University of Science and Technology,23.1295756,72.5413145
+485,Mangalore,265,NITTE University,12.807511,74.888219
+486,Hyderabad,401,Nizam's Institute of Medical Sciences,17.421937,78.4520067
+487,Greater Noida,422,Noida International University,28.3724544,77.5399486
+488,Shillong ...,78,North Eastern Hill University,25.6131418,91.8981471
+489,Itanagar,300,North Eastern Regional Institute of Science and Technology,27.1305429,93.7408016
+490,Jalgaon ...,133,North Maharashtra University,21.003251,75.4940698
+491,Baripada,532,North Orissa University,21.929906,86.7658332
+492,Sonipat,197,O.P. Jindal Global University,28.9262307,77.0566736
+493,Indore,672,Oriental University,22.8031895,75.8563927
+494,Bhubaneswar,281,Orissa University of Agriculture and Technology,20.265043,85.8117039
+495,Hyderabad,37,Osmania University,17.413502,78.5287355
+496,Udaipur,743,Pacific Medical University,24.6688676,73.7023079
+497,Udaipur,501,"Pacific University, India",24.5992851,73.7762916
+498,Navi Mumbai,317,Padmashree Dr. D.Y. Patil Vidyapith,18.6241943,73.8211085
+499,Mahabubnagar,449,Palamuru University,16.7207392,77.9817166
+500,Gandhinagar,187,Pandit Deendayal Petroleum University,23.1563332,72.6655211
+501,Sikar,425,Pandit Deendayal Upadhyaya Shekhawati University,27.6778655,75.1901293
+502,Raipur,263,Pandit Ravishankar Shukla University,21.2468599,81.5974452
+503,Chandigarh,18,Panjab University,30.7600747,76.7663028
+504,Waghodia,388,Parul University,22.2888265,73.3637967
+505,Patna,244,Patna University,25.618662,85.167012
+506,Jabalpur,216,"PDPM Indian Institute of Information Technology, Design and Manufacturing",23.1801406,80.0268662
+507,Chandigarh,169,PEC University of Technology,30.7680494,76.782702
+508,Bhopal,567,People's University,23.3011578,77.423941
+509,Vallam ...,500,Periyar Maniammai University,10.7301521,79.0688749
+510,Salem,238,Periyar University,11.7184115,78.0773234
+511,Bangalore,158,PES University,12.9344948,77.5345164
+512,Puducherry ...,53,Pondicherry University,12.0219328,79.8574832
+513,Thanjavur,543,Ponnaiyan Ramajayam Institute of Science and Technology,10.7192892,79.0426116
+514,Jaipur,477,Poornima University,26.779445,75.877375
+515,Chandigarh,90,Post Graduate Institute of Medical Education and Research,30.762393,76.776254
+516,Hyderabad,445,Potti Sreeramulu Telugu University,17.3953217,78.4699368
+517,Jaipur,682,Pratap University,27.2266743,75.9307192
+518,Loni,299,Pravara Institute of Medical Sciences,19.5786755,74.4559409
+519,Kolkata,172,Presidency University,22.5762778,88.3632497
+520,Hyderabad,313,Professor Jayashankar Telangana State Agricultural University,17.3226269,78.4175444
+521,Rohtak,325,Pt. Bhagwat Dayal Sharma University of Health Sciences,28.884793,76.6085837
+522,Ludhiana,159,Punjab Agricultural University,30.9019147,75.8077749
+523,Kapurthala,140,Punjab Technical University,31.3528483,75.4595632
+524,Patiala,98,Punjabi University,30.360586,76.451356
+525,Kolkata,289,Rabindra Bharati University,22.5844889,88.3593625
+526,Neemrana,636,Raffles University,27.9597957,76.3959478
+527,Dholka,503,Rai University,23.2264381,77.3881112
+528,Alwar,541,Raj Rishi Bharthari Matsya University,27.5820063,76.6211522
+529,Gwalior,722,Raja Mansingh Tomar Music and Arts University,26.1907906,78.1790157
+530,Kota,131,Rajasthan Technical University Kota,25.1413055,75.8040022
+531,Jaipur,206,Rajasthan University of Health Sciences,26.8016946,75.8288741
+532,Bikaner,408,Rajasthan University of Veterinary and Animal Sciences,28.032533,73.329481
+533,Samastipur,417,Rajendra Agricultural University,25.9844389,85.6744532
+534,Raebareli,368,Rajiv Gandhi Institute of Petroleum Technology,26.265081,81.509307
+535,Sriperumbudur,342,Rajiv Gandhi National Institute of Youth Development,12.9801924,79.9587893
+536,Patiala,432,Rajiv Gandhi National University of Law,30.3865389,76.3241666
+537,Bhopal ...,60,Rajiv Gandhi Proudyogiki Vishwavidyalaya,23.3017385,77.3620278
+538,Itanagar,260,Rajiv Gandhi University,12.9260951,77.592576
+539,Bangalore,167,Rajiv Gandhi University of Health Sciences,12.9260951,77.592576
+540,Hyderabad,268,Rajiv Gandhi University of Knowledge Technologies,17.4471373,78.3491006
+541,Gwalior,623,Rajmata Vijayaraje Scindia Krishi Vishwavidyalaya,26.22316,78.1908981
+542,Ahmedabad,678,Raksha Shakti University,23.053066,72.6101637
+543,Kanpur,622,Rama University,28.6966218,77.6074933
+544,Belur ...,431,Ramakrishna Mission Vivekananda University,22.6299477,88.3537541
+545,Ranchi,447,Ranchi University,23.3714999,85.3239229
+546,Belagavi,480,"Rani Channamma University, Belagavi",16.0052896,74.5052098
+547,Jabalpur,251,Rani Durgavati Vishwavidyalaya,23.161356,79.978737
+548,Nagpur,151,Rashtrasant Tukadoji Maharaj Nagpur University,21.1468555,79.050062
+549,New Delhi,394,Rashtriya Sanskrit Sansthan University,23.1914648,77.4788015
+550,Tirupati,472,Rashtriya Sanskrit Vidyapeetha,13.6357437,79.4071412
+551,Cuttack,279,Ravenshaw University,20.4664161,85.8950223
+552,Kurnool,441,Rayalaseema University,15.772583,78.0605348
+553,Kharar,629,Rayat-Bahra University,30.781041,76.618326
+554,Bangalore,475,REVA University,13.1172435,77.6343492
+555,Rajkot,335,RK University,22.2403032,70.9008546
+556,Bhopal,588,RKDF University,23.3125113,77.3595922
+557,Ranchi,681,Sai Nath University,23.4896346,85.4071295
+558,Allahabad,316,"Sam Higginbottom Institute of Agriculture, Technology and Sciences",25.4135425,81.8468641
+559,Burla,275,Sambalpur University,21.4807608,83.884018
+560,Varanasi,552,Sampurnanand Sanskrit Vishvavidyalaya,25.3318206,82.9993926
+561,Bhilwara,686,Sangam University,25.2796065,74.6209968
+562,Lucknow,214,Sanjay Gandhi Post Graduate Institute of Medical Sciences,26.7434191,80.9452102
+563,Amravati,193,Sant Gadge Baba Amravati University,20.9369598,77.804813
+564,Sangrur,327,Sant Longowal Institute of Engineering and Technology,30.2175278,75.6984457
+565,Ghaziabad,471,Santosh University,28.6697777,77.4322772
+566,Vallabh Vidyanagar,166,Sardar Patel University,22.5552555,72.9250252
+567,Jodhpur,657,"Sardar Patel University of Police, Security and Criminal Justice",26.3968324,73.0641358
+568,Surat,119,"Sardar Vallabhbhai National Institute of Technology, Surat",21.167353,72.7850947
+569,Meerut,526,Sardar Vallabhbhai Patel University of Agriculture and Technology,29.0871412,77.6969849
+570,Palanpur,452,Sardarkrushinagar Dantiwada Agricultural University,24.3216994,72.3177225
+571,Ambikapur,591,Sarguja University,23.1145639,83.1885894
+572,Bhopal,717,Sarvepalli Radhakrishnan University,26.452096,73.1097754
+573,Thanjavur ...,70,SASTRA University,10.7285151,79.0184082
+574,Karimnagar,440,Satavahana University,18.4551173,79.0964047
+575,Chennai,233,Sathyabama University,12.8728475,80.2218851
+576,Rajkot,102,Saurashtra University,22.2908034,70.742986
+577,Chennai,365,Saveetha University,13.0282708,80.0157633
+578,Pune,10,Savitribai Phule Pune University,18.5526861,73.8265694
+579,Bhopal,462,"School of Planning and Architecture, Bhopal",23.2992061,77.2686072
+580,New Delhi,314,"School of Planning and Architecture, Delhi",28.6287605,77.2458916
+581,Vijayawada,467,"School of Planning and Architecture, Vijayawada",16.5104343,80.7415372
+582,Santiniketan,735,Seacom Skills University,23.7013024,87.6399934
+583,Greater Noida,132,Sharda University,28.47272,77.4820016
+584,Jammu,488,Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu,32.6529076,74.8072171
+585,Srinagar,383,Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir,32.6108638,74.7372551
+586,Srinagar,360,Sher-i-Kashmir Institute of Medical Sciences,34.1361402,74.8001468
+587,Dadri,77,Shiv Nadar University,28.5257529,77.5744518
+588,Kolhapur,95,Shivaji University,16.6780249,74.2555369
+589,Meerut,426,Shobhit University,29.7848104,77.2813035
+590,Solan,460,Shoolini University of Biotechnology and Management Sciences,30.864354,77.1186921
+591,Gurgaon,465,Shree Guru Gobind Singh Tricentenary University,28.4783428,76.9038708
+592,Veraval,660,Shree Somnath Sanskrit University,20.9141834,70.3531972
+593,Godhra,690,Shri Govind Guru University,22.7613609,73.6355263
+594,Dehradun ...,741,Shri Guru Ram Rai Education Mission,30.3275352,78.0521753
+595,Puri,668,Shri Jagannath Sanskrit Vishvavidyalaya,19.8076183,85.8616595
+596,Jhunjhunu,585,Shri Jagdishprasad Jhabrmal Tibrewala University,28.176763,75.2455438
+597,New Delhi,444,Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha,28.5406972,77.1824005
+598,Katra,223,Shri Mata Vaishno Devi University,32.941653,74.954099
+599,Barabanki,580,Shri Ramswaroop Memorial University,26.951637,81.0981
+600,Gajraula,669,Shri Venkateshwara University,28.8374,78.350802
+601,Pilani,685,Shridhar University,28.2731552,75.639288
+602,Purulia ...,509,Sidho Kanho Birsha University,23.3612541,86.3391843
+603,Dumka,590,Sido Kanhu Murmu University,24.2752464,87.2876787
+604,Gangtok,182,Sikkim Manipal University,27.3169518,88.5964449
+605,Tadong,288,Sikkim University,27.3152682,88.6012173
+606,Bhubaneswar,264,Siksha O Anusandhan University,20.2588345,85.792007
+607,Jhunjhunu,470,Singhania University,28.132303,75.9540123
+608,Udaipur,564,Sir Padampat Singhania University,24.6178572,73.9913463
+609,New Delhi,207,South Asian University,28.5849776,77.1900417
+610,Thiruvananthapuram,225,Sree Chitra Thirunal Institute of Medical Sciences and Technology,8.5216655,76.9264027
+611,Kalady,484,Sree Sankaracharya University of Sanskrit,10.1704245,76.4383757
+612,Puducherry,624,Sri Balaji Vidyapeeth,11.8126432,79.7783615
+613,Kanchipuram,413,Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya,12.8607888,79.7285263
+614,Tehri,490,Sri Dev Suman Uttarakhand University,30.3370104,78.4027193
+615,Kolar,654,Sri Devaraj Urs Academy of Higher Education and Research,13.1322578,78.1744657
+616,Fatehgarh Sahib,597,Sri Guru Granth Sahib World University,30.6464412,76.4034902
+617,Anantapur ...,294,Sri Krishnadevaraya University,14.6100372,77.6470408
+618,Tirupati,414,Sri Padmavati Mahila Visvavidyalayam,13.6181585,79.3989732
+619,Chennai,246,Sri Ramachandra University,13.0402755,80.1429895
+620,Palampur,701,Sri Sai University,32.0804715,76.5932237
+621,Prasanthi Nilayam,461,Sri Sathya Sai Institute of Higher Learning,14.1629386,77.8112721
+622,Sehore,634,Sri Satya Sai University of Technology and Medical Sciences,23.2156646,77.1276149
+623,Tumkur,619,Sri Siddhartha Academy of Higher Education,13.3454068,77.0565756
+624,Cuttack,555,Sri Sri University,20.4532721,85.7974291
+625,Tirupati,344,Sri Venkateswara Institute of Medical Sciences,13.642028,79.408327
+626,Tirupati,285,Sri Venkateswara University,13.6270338,79.3970433
+627,Tirupati,666,Sri Venkateswara Vedic University,13.63265,79.3964111
+628,Tirupati,544,Sri Venkateswara Veterinary University,14.6689053,77.6678303
+629,Guwahati,602,Srimanta Sankaradeva University of Health Sciences,26.1545198,91.7699941
+630,Chennai,13,SRM University,12.8231047,80.0452801
+631,Gangtok,697,"SRM University, Sikkim",27.3105755,88.5975893
+632,Chennai,577,St. Peter's University,40.7272231,-74.0715029
+633,Rohtak,709,State University of Performing and Visual Arts,28.9091886,76.6043234
+634,Vadodara,525,Suamandeep Vidyapeeth,22.292136,73.320914
+635,Alwar ...,531,Sunrise University,27.51727,76.778218
+636,Jaipur,382,Suresh Gyan Vihar University,26.809031,75.8612986
+637,Bikaner,491,Swami Keshwanand Rajasthan Agricultural University,28.0870622,73.3520886
+638,Dehradun,486,Swami Rama Himalayan University,30.1927738,78.1647423
+639,Nanded,196,Swami Ramanand Teerth Marathwada University,19.102196,77.2843176
+640,Meerut,393,Swami Vivekanand Subharti University,28.9603075,77.6374495
+641,Sagar,714,Swami Vivekanand University,23.8192343,78.7994479
+642,Bangalore,352,Swami Vivekananda Yoga Anusandhana Samsthana,22.5028239,88.3512804
+643,Gandhinagar,671,Swarnim Gujarat Sports University,23.2318369,72.6384453
+644,Pune,143,Symbiosis International University,18.5344313,73.7310824
+645,Coimbatore ...,30,Tamil Nadu Agricultural University,11.0123261,76.9354529
+646,Chennai,369,Tamil Nadu Dr Ambedkar Law University,13.0187407,80.2654762
+647,Chennai,267,Tamil Nadu Dr. M.G.R.Medical University,13.0098022,80.2182052
+648,Nagapattinam,537,Tamil Nadu Fisheries University,10.7617759,79.8485523
+649,Tiruchirappalli,601,Tamil Nadu National Law School,10.7461244,78.5998637
+650,Chennai,546,Tamil Nadu Physical Education and Sports University,12.833033,80.1391948
+651,Chennai,319,Tamil Nadu Teacher Education University,12.9154123,80.2365685
+652,Chennai ...,241,Tamil Nadu Veterinary and Animal Sciences University,13.1614723,80.2438533
+653,Thanjavur,456,Tamil University,10.7364052,79.0979484
+654,Sri Ganganagar,692,Tantia University,29.8694477,73.9375213
+655,Mumbai,100,Tata Institute of Fundamental Research,18.9053889,72.804928
+656,Mumbai,15,Tata Institute of Social Sciences,19.045317,72.912346
+657,Moradabad,371,Teerthanker Mahaveer University,28.8244809,78.6582524
+658,Nizamabad,459,Telangana University,18.6157063,78.2091637
+659,New Delhi,219,TERI University,28.5446,77.147801
+660,Tezpur,41,Tezpur University,26.6965379,92.8350299
+661,Patiala,69,Thapar Institute of Engineering and Technology,30.3544381,76.3625527
+662,Hyderabad,274,The English and Foreign Languages University,17.4236463,78.5260133
+663,Jaipur,448,The IIS University,26.837538,75.770352
+664,New Delhi,385,The Indian Law Institute,28.6196596,77.2385233
+665,Jaipur,269,The LNM Institute of Information Technology,26.9363461,75.9235233
+666,Vadodara,96,The Maharaja Sayajirao University of Baroda,22.322474,73.180923
+667,Kochi,527,The National University of Advanced Legal Studies,10.0592411,76.3597012
+668,Gurgaon ...,286,The Northcap University,28.5036497,77.0498002
+669,Kolkata,189,The West Bengal National University of Juridical Sciences,22.5606191,88.4098882
+670,Vellore,468,Thiruvalluvar University,13.028927,79.2104088
+671,Tirur,663,Thunchath Ezhuthachan Malayalam University,10.8831639,75.8950209
+672,Pune,375,Tilak Maharashtra Vidyapeeth,18.5116828,73.8510097
+673,Bhagalpur,409,Tilka Manjhi Bhagalpur University,25.2488712,86.9580281
+674,Bangalore,674,Trans-disciplinary University,13.1237457,77.5478468
+675,Agartala,234,Tripura University,23.7622248,91.2631516
+676,Tumkur,499,Tumkur University,13.3379753,77.1202968
+677,Mathura,576,U.P. Pandit Deen Dayal Upadhyaya Pashu Chikitsa Vigyan Vishwavidyalaya Evam Go-Anusandhan Sansthan,27.4735312,77.702282
+678,Surat,502,UKA Tarsadia University,21.069029,73.133224
+679,Shimoga,653,"University of Agricultural and Horticultural Sciences, Shivamogga",13.9754637,75.5805693
+680,Bangalore ...,270,"University of Agricultural Sciences, Bangalore",13.0791785,77.5789643
+681,Dharwad,358,"University of Agricultural Sciences, Dharwad",15.4889253,74.9812757
+682,Raichur,609,"University of Agricultural Sciences, Raichur",17.8983739,77.5276992
+683,Allahabad,74,University of Allahabad,25.4669466,81.8593708
+684,Bardhaman,82,University of Burdwan,23.2392,87.8513
+685,Kolkata,47,University of Calcutta,22.5748362,88.3626298
+686,Tenhipalam ...,36,University of Calicut,11.1340267,75.8952354
+687,New Delhi,1,University of Delhi,28.5842523,77.1638282
+688,Malda,312,University of Gour Banga,24.9838991,88.1387508
+689,Bagalkot ...,572,"University of Horticultural Sciences, Bagalkot",16.1634505,75.6172122
+690,Hyderabad,42,University of Hyderabad,17.4567372,78.326384
+691,Jammu,212,University of Jammu,32.71937,74.868063
+692,Kalyani,17,University of Kalyani,22.9862674,88.4461124
+693,Srinagar,163,University of Kashmir,34.1279625,74.8365172
+694,Thiruvananthapuram,49,University of Kerala,8.503333,76.947513
+695,Kota,301,University of Kota,25.1177608,75.8224832
+696,Lucknow,64,University of Lucknow,26.8633212,80.9360177
+697,Chennai,57,University of Madras,13.0660293,80.2831719
+698,Mumbai,20,University of Mumbai,19.0711224,72.8559959
+699,Mysore ...,84,University of Mysore,12.307992,76.638921
+700,Siliguri,171,University of North Bengal,26.709437,88.3536989
+701,Haridwar,617,University of Patanjali,29.9765369,78.1825242
+702,Dehradun,51,University of Petroleum and Energy Studies,30.4158276,77.9663206
+703,Jaipur,28,University of Rajasthan,26.8796603,75.8124822
+704,Baridua,610,"University of Science and Technology, Meghalaya",26.1017426,91.8465695
+705,Solapur,245,University of Solapur,17.7232263,75.8410508
+706,Shillong,535,University of Technology and Management,25.5673997,91.8999568
+707,Bhubaneswar,232,Utkal University,20.3033666,85.8400572
+708,Bhubaneswar,626,Utkal University of Culture,20.247976,85.727333
+709,Pundibari,530,Uttar Banga Krishi Viswavidyalaya,26.4045209,89.3837943
+710,Dehradun,516,Uttarakhand Ayurved University,30.2591619,78.0967269
+711,Dehradun,243,Uttarakhand Technical University,30.3435027,77.9400678
+712,Bharsar,547,Uttarakhand University of Horticulture and Forestry,30.0450479,78.7138834
+713,Haridwar,645,Uttaranchal Sanskrit University,29.9211109,78.0533629
+714,Dehradun,514,Uttaranchal University,30.340426,77.952092
+715,Parbhani ...,569,Vasantrao Naik Marathwada Krishi Vidyapeeth,19.2508111,76.7951849
+716,Jaunpur,284,Veer Bahadur Singh Purvanchal University,25.8295031,82.684114
+717,Arrah,582,Veer Kunwar Singh University,25.5525086,84.6528168
+718,Surat,112,Veer Narmad South Gujarat University,21.1535246,72.7831883
+719,Sambalpur,211,Veer Surendra Sai University of Technology,21.4963968,83.9034687
+720,Chennai ...,222,Vel Tech Dr.RR and Dr.SR Technical University,13.1769237,80.0983817
+721,Chennai,348,Vels University,12.9570861,80.1605324
+722,Midnapore,135,Vidyasagar University,22.4319869,87.2978852
+723,Guntur,338,Vignan University,16.2333746,80.5509079
+724,Bellary,521,Vijayanagara Sri Krishnadevaraya University,15.151031,76.8771406
+725,Ujjain,229,Vikram University,23.168554,75.803145
+726,Nellore,384,Vikrama Simhapuri University,14.353762,79.9227682
+727,Gangtok,719,Vinayaka Missions Sikkim University,27.3109734,88.5950683
+728,Salem,224,Vinayaka Missions University,11.5971346,78.0840049
+729,Hazaribag,273,Vinoba Bhave University,24.0211887,85.3733656
+730,Santiniketan ...,81,Visva-Bharati University,23.6796238,87.6894999
+731,Nagpur,127,Visvesvaraya National Institute of Technology,21.1229859,79.0515132
+732,Belgaum,14,Visvesvaraya Technological University,15.7777762,74.4634341
+733,Vellore ...,7,VIT University,12.9717796,79.1589042
+734,Jaipur,594,Vivekananda Global University,26.8113517,75.8899119
+735,Barasat,291,West Bengal State University,22.7390697,88.4351563
+736,Kolkata,553,West Bengal University of Animal and Fishery Sciences,22.6063602,88.3869148
+737,Kolkata,406,West Bengal University of Health Sciences,22.5916558,88.4123247
+738,Kolkata,420,"West Bengal University of Teachers' Training, Education Planning and Administration",22.5302408,88.3559906
+739,Shillong,734,"William Carey University, India",25.5913135,91.9177593
+740,Harirajpur ...,511,Xavier University Bhubaneswar,20.1581154,85.7624501
+741,Mangalore,434,Yenepoya University,12.8111269,74.8809966
+742,Faridabad,366,YMCA University of Science and Technology,28.3671956,77.3156686
+743,Kadapa,381,Yogi Vemana University,14.4741827,78.7098184
